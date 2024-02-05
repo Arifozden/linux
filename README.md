@@ -35,7 +35,7 @@ if (( 7 == 7 )); then echo TRUE; fi
 TRUE
 \n
 # FOR
-for vari in h1 h2 h3 h4; 
+for vari in h1 h2 h3 h4; \n
 do 
 echo "variabel er her $vari"; 
 echo "pause"
