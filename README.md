@@ -33,7 +33,7 @@ TRUE
 if (( 7 == 7 )); then echo TRUE; fi
 
 TRUE
-
+\n
 # FOR
 for vari in h1 h2 h3 h4; 
 do 
