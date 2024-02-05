@@ -1,6 +1,6 @@
 # linux
 
-if [ "a"! = "b" ]; then echo TRUE; fi
+if [ "a"! = "b" ]; then echo TRUE; fi \n
 
 if [ "a" != "b" ]; then echo TRUE; fi
 
