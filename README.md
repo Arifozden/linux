@@ -37,18 +37,30 @@ TRUE
 
 # FOR
 for vari in h1 h2 h3 h4; \n
+
 do 
+
 echo "variabel er her $vari"; 
+
 echo "pause"
+
 done
+
 \n
 variabel er her h1
+
 pause
+
 variabel er her h2
+
 pause
+
 variabel er her h3
+
 pause
+
 variabel er her h4
+
 pause
 
 
