@@ -1,4 +1,4 @@
-# linux
+# IF
 
 if [ "a"! = "b" ]; then echo TRUE; fi \n
 
@@ -34,6 +34,21 @@ if (( 7 == 7 )); then echo TRUE; fi
 
 TRUE
 
+# FOR
+for vari in h1 h2 h3 h4; 
+do 
+echo "variabel er her $vari"; 
+echo "pause"
+done
+\n
+variabel er her h1
+pause
+variabel er her h2
+pause
+variabel er her h3
+pause
+variabel er her h4
+pause
 
 
 
